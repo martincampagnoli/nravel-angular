@@ -1,20 +1,216 @@
-<!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
-  <h1>
-    Welcome to {{ title }}!
-  </h1>
-  <img width="300" alt="Angular Logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
-</div>
-<h2>Here are some links to help you start: </h2>
-<ul>
-  <li>
-    <h2><a target="_blank" rel="noopener" href="https://angular.io/tutorial">Tour of Heroes</a></h2>
-  </li>
-  <li>
-    <h2><a target="_blank" rel="noopener" href="https://angular.io/cli">CLI Documentation</a></h2>
-  </li>
-  <li>
-    <h2><a target="_blank" rel="noopener" href="https://blog.angular.io/">Angular blog</a></h2>
-  </li>
-</ul>
+<div class="navbar navbar-inverse navbar-fixed-top scroll-me" id="menu-section">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle pull-right" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand d-block d-sm-none" href="#">
+      Your Next tRavel will be to...
+      </a>
+      <a class="navbar-brand d-none d-sm-block" href="#">
+      Your Next tRavel destination should be...
+      </a>
+    </div>
+    <div class="navbar-collapse collapse">
+      <ul class="nav navbar-nav navbar-right">
+      <li >
+        <a>testing</a>
+      </li>
+      </ul>
+    </div>
 
+  </div>
+</div>
+<div class="container">
+  <div id="home" ng-init="$ctrl.loadRandomCountry()" style="
+      padding-bottom: 0px;
+      padding-top: 0px;
+  ">
+
+    <section id="work" >
+    	<div class="container">
+    		<div class="row text-center" >
+    			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html" id="contact">
+    				<div class="contact-wrapper">
+    					<h3 style="color: #da2525 !important">Important info</h3>
+    					<h4><strong>Capital : {{ randomCountry.capital }} </strong> </h4>
+    					<h4><strong>Region : {{ randomCountry.region }}</strong>  </h4>
+    					<h4><strong>Currency : {{ randomCountry.currencies }}</strong>  </h4>
+    				</div>
+    			</div>
+    			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html" data-toggle="modal" data-target="#myModal" id="popover" tabindex="0" data-trigger="focus" data-content="Don't know it?">
+    				<div class="work-wrapper">
+              <a>
+    						<img src="http://www.geonames.org/flags/x/{{ randomCountry.alpha2Code | lowercase }}.gif" style="width:308px; height:210px" class="img-responsive img-rounded" alt="" >
+    					</a>
+              <h4>{{ randomCountry.name | uppercase }}</h4>
+    				</div>
+    			</div>
+    			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html" id="contact">
+    				<div class="contact-wrapper">
+                  <iframe width="100%" height="170" frameborder="0" style="border:0" [src]="sanitizer.bypassSecurityTrustResourceUrl(randomCountry.mapUrl)" allowfullscreen></iframe>
+             </div>
+    			</div>
+    		</div>
+    		<div class="row animate-in" data-anim-type="fade-in-up">
+    			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html"></div>
+    			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html">
+    				<a href="" class="btn button-custom btn-custom-one" >GET ANOTHER COUNTRY</a>
+    			</div>
+          <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4 html">
+    			<!-- 	<a class="btn button-custom btn-custom-one" (click)="toogleRandomRating()" >{{randomCountryString}} RANDOM COUNTRY</a> -->
+            <mat-form-field>
+              <input type="text" placeholder="OR CHECK ONE..." aria-label="Number" matInput [formControl]="myControl" [matAutocomplete]="auto">
+              <mat-autocomplete #auto="matAutocomplete">
+                <mat-option (onSelectionChange)="openLink(option.url)" *ngFor="let option of filteredOptions | async" [value]="option.name">
+                  {{option.name}}
+                </mat-option>
+              </mat-autocomplete>
+          </mat-form-field>
+    			</div>
+    		</div>
+
+    	</div>
+    	<br>
+    	<div class="row animate-in" data-anim-type="fade-in-up">
+    			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 html row">
+    				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-2 html"></div>
+    				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-9 html">
+              <banner *ngIf="render"></banner>
+    				</div>
+    			</div>
+    	</div>
+    </section>
+    <section id="countryInfo" style="padding-top:20px !important">
+    	<div class="container" id="team">
+    		<div class="row text-center header" data-anim-type="fade-in-up">
+    			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    			<h3>THE COUNTRY </h3>
+    			<hr>
+    			</div>
+    		</div>
+    		<div class="row" data-anim-type="fade-in-up">
+    			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    				<div class="team-wrapper">
+    					<div [innerHtml]="randomCountry.info" style="color:white"></div>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+    	<div class="row animate-in" data-anim-type="fade-in-up">
+    			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 html row">
+    				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-2 html"></div>
+    				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-9 html">
+              <banner *ngIf="render"></banner>
+    				</div>
+    			</div>
+    	</div>
+    </section>
+    <section id="whattosee" style="padding-top:20px !important">
+    	<div class="container" id="team">
+    		<div class="row text-center header" data-anim-type="fade-in-up">
+    			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    				<h3>WHAT TO SEE THERE </h3>
+    			<hr>
+    			</div>
+    		</div>
+    		<div class="row" data-anim-type="fade-in-up">
+    			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+    				<div class="team-wrapper">
+    					<div class="team-inner" style="background-image: url('')">
+    					<a href="#" target="_blank"> <i class="fa fa-plane"></i></a>
+    					</div>
+    					<div class="description">
+    					<h3></h3>
+    					<!--<h5> <strong> Developer &amp; Designer </strong></h5>-->
+    					<!--<p>
+    					{{item.description}}
+    					</p>-->
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+    				<div class="team-wrapper">
+    					<div class="team-inner">
+    					<a> <i class="fa fa-plane"></i></a>
+    					</div>
+    					<div class="description">
+    					<h3> Content not available</h3>
+    					<p>
+    						Please try again ang get another country!
+    					</p>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+      <div class="row animate-in" data-anim-type="fade-in-up">
+    			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 html row">
+    				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-2 html"></div>
+    				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-9 html">
+              <banner *ngIf="render"></banner>
+    				</div>
+    			</div>
+    	</div>
+    </section>
+
+    <section id="about" style="padding-top:20px !important">
+    	<div class="container" id="contact">
+    		<div class="row text-center header animate-in" data-anim-type="fade-in-up">
+    			<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+    			<h3>About this site </h3>
+    			<hr />
+
+    			</div>
+    		</div>
+    		<div class="row animate-in" data-anim-type="fade-in-up">
+    			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+    				<div class="contact-wrapper">
+    					<h3>Social NRavel</h3>
+    					<p>
+    					Subscribe to our social networks to get updates about the site and find out when the app comes out!
+    					</p>
+    					<div class="social-below">
+    					<a href="https://www.facebook.com/nravelpage" target="_blank" class="btn button-custom btn-custom-two" > Facebook</a>
+    					<a href="#" class="btn button-custom btn-custom-two" ng-disabled="true"> Twitter</a>
+    					<a href="#" class="btn button-custom btn-custom-two" ng-disabled="true"> Google +</a>
+    					</div>
+    				</div>
+
+    			</div>
+    			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+    				<div class="contact-wrapper">
+    					<h3>Any bug or missing content?</h3>
+    					<h4><strong></strong> </h4>
+    					<div ng-hide="$ctrl.report">
+    						<h4>Please report it by clicking</h4>
+    						<h4 ng-click="$ctrl.saveReview(); $ctrl.report = true" style="cursor:pointer"><strong> here </strong></h4>
+    					</div>
+    					<div ng-show="$ctrl.report">
+    						<h4></h4><br>
+    						<h4><strong>Thank you for your input!</strong></h4>
+    					</div>
+    				</div>
+
+    			</div>
+    			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+    				<div class="contact-wrapper">
+    				<h3>About </h3>
+    				<h4>This site based on public web API's is intended to be for reference only. </h4>
+    				<h4></h4>
+    				<div class="footer-div" >
+    				&copy; 2016 nravel.com
+    				</div>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+    </section>
+
+
+  </div>
+
+<div>

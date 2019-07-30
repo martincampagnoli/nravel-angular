@@ -1,0 +1,2471 @@
+﻿[{
+	"alpha2Code": "AF",
+	"capital": "Kabul",
+	"alpha3Code": "AFG",
+	"latlng": [33, 65],
+	"name": "Afghanistan",
+	"population": 26023100,
+	"region": "Asia",
+	"subregion": "Southern Asia",
+	"currencies": ["AFN"]
+}, {
+	"alpha2Code": "AX",
+	"capital": "Mariehamn",
+	"alpha3Code": "ALA",
+	"latlng": [60.116667, 19.9],
+	"name": "Åland Islands",
+	"population": 28875,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "AL",
+	"capital": "Tirana",
+	"alpha3Code": "ALB",
+	"latlng": [41, 20],
+	"name": "Albania",
+	"population": 2893005,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["ALL"]
+}, {
+	"alpha2Code": "DZ",
+	"capital": "Algiers",
+	"alpha3Code": "DZA",
+	"latlng": [28, 3],
+	"name": "Algeria",
+	"population": 39500000,
+	"region": "Africa",
+	"subregion": "Northern Africa",
+	"currencies": ["DZD"]
+}, {
+	"alpha2Code": "AS",
+	"capital": "Pago Pago",
+	"alpha3Code": "ASM",
+	"latlng": [-14.33333333, -170],
+	"name": "American Samoa",
+	"population": 55519,
+	"region": "Oceania",
+	"subregion": "Polynesia",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "AD",
+	"capital": "Andorra la Vella",
+	"alpha3Code": "AND",
+	"latlng": [42.5, 1.5],
+	"name": "Andorra",
+	"population": 76949,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "AO",
+	"capital": "Luanda",
+	"alpha3Code": "AGO",
+	"latlng": [-12.5, 18.5],
+	"name": "Angola",
+	"population": 24383301,
+	"region": "Africa",
+	"subregion": "Middle Africa",
+	"currencies": ["AOA"]
+}, {
+	"alpha2Code": "AI",
+	"capital": "The Valley",
+	"alpha3Code": "AIA",
+	"latlng": [18.25, -63.16666666],
+	"name": "Anguilla",
+	"population": 13452,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["XCD"]
+}, {
+	"alpha2Code": "AG",
+	"capital": "Saint John's",
+	"alpha3Code": "ATG",
+	"latlng": [17.05, -61.8],
+	"name": "Antigua and Barbuda",
+	"population": 86295,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["XCD"]
+}, {
+	"alpha2Code": "AR",
+	"capital": "Buenos Aires",
+	"alpha3Code": "ARG",
+	"latlng": [-34, -64],
+	"name": "Argentina",
+	"population": 43131966,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["ARS"]
+}, {
+	"alpha2Code": "AM",
+	"capital": "Yerevan",
+	"alpha3Code": "ARM",
+	"latlng": [40, 45],
+	"name": "Armenia",
+	"population": 3006800,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["AMD"]
+}, {
+	"alpha2Code": "AW",
+	"capital": "Oranjestad",
+	"alpha3Code": "ABW",
+	"latlng": [12.5, -69.96666666],
+	"name": "Aruba",
+	"population": 107394,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["AWG"]
+}, {
+	"alpha2Code": "AU",
+	"capital": "Canberra",
+	"alpha3Code": "AUS",
+	"latlng": [-27, 133],
+	"name": "Australia",
+	"population": 23868800,
+	"region": "Oceania",
+	"subregion": "Australia and New Zealand",
+	"currencies": ["AUD"]
+}, {
+	"alpha2Code": "AT",
+	"capital": "Vienna",
+	"alpha3Code": "AUT",
+	"latlng": [47.33333333, 13.33333333],
+	"name": "Austria",
+	"population": 8602112,
+	"region": "Europe",
+	"subregion": "Western Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "AZ",
+	"capital": "Baku",
+	"alpha3Code": "AZE",
+	"latlng": [40.5, 47.5],
+	"name": "Azerbaijan",
+	"population": 9636300,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["AZN"]
+}, {
+	"alpha2Code": "BS",
+	"capital": "Nassau",
+	"alpha3Code": "BHS",
+	"latlng": [24.25, -76],
+	"name": "The Bahamas",
+	"population": 368390,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["BSD"]
+}, {
+	"alpha2Code": "BH",
+	"capital": "Manama",
+	"alpha3Code": "BHR",
+	"latlng": [26, 50.55],
+	"name": "Bahrain",
+	"population": 1359800,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["BHD"]
+}, {
+	"alpha2Code": "BD",
+	"capital": "Dhaka",
+	"alpha3Code": "BGD",
+	"latlng": [24, 90],
+	"name": "Bangladesh",
+	"population": 158875000,
+	"region": "Asia",
+	"subregion": "Southern Asia",
+	"currencies": ["BDT"]
+}, {
+	"alpha2Code": "BB",
+	"capital": "Bridgetown",
+	"alpha3Code": "BRB",
+	"latlng": [13.16666666, -59.53333333],
+	"name": "Barbados",
+	"population": 285000,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["BBD"]
+}, {
+	"alpha2Code": "BY",
+	"capital": "Minsk",
+	"alpha3Code": "BLR",
+	"latlng": [53, 28],
+	"name": "Belarus",
+	"population": 9485300,
+	"region": "Europe",
+	"subregion": "Eastern Europe",
+	"currencies": ["BYR"]
+}, {
+	"alpha2Code": "BE",
+	"capital": "Brussels",
+	"alpha3Code": "BEL",
+	"latlng": [50.83333333, 4],
+	"name": "Belgium",
+	"population": 11248330,
+	"region": "Europe",
+	"subregion": "Western Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "BZ",
+	"capital": "Belmopan",
+	"alpha3Code": "BLZ",
+	"latlng": [17.25, -88.75],
+	"name": "Belize",
+	"population": 368310,
+	"region": "Americas",
+	"subregion": "Central America",
+	"currencies": ["BZD"]
+}, {
+	"alpha2Code": "BJ",
+	"capital": "Porto-Novo",
+	"alpha3Code": "BEN",
+	"latlng": [9.5, 2.25],
+	"name": "Benin",
+	"population": 10315244,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["XOF"]
+}, {
+	"alpha2Code": "BM",
+	"capital": "Hamilton",
+	"alpha3Code": "BMU",
+	"latlng": [32.33333333, -64.75],
+	"name": "Bermuda",
+	"population": 64237,
+	"region": "Americas",
+	"subregion": "Northern America",
+	"currencies": ["BMD"]
+}, {
+	"alpha2Code": "BT",
+	"capital": "Thimphu",
+	"alpha3Code": "BTN",
+	"latlng": [27.5, 90.5],
+	"name": "Bhutan",
+	"population": 763920,
+	"region": "Asia",
+	"subregion": "Southern Asia",
+	"currencies": ["BTN", "INR"]
+}, {
+	"alpha2Code": "BO",
+	"capital": "Sucre",
+	"alpha3Code": "BOL",
+	"latlng": [-17, -65],
+	"name": "Bolivia",
+	"population": 11410651,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["BOB", "BOV"]
+}, {
+	"alpha2Code": "BQ",
+	"capital": "Kralendijk",
+	"alpha3Code": "BES",
+	"latlng": [12.15, -68.266667],
+	"name": "Bonaire",
+	"population": 17408,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "BA",
+	"capital": "Sarajevo",
+	"alpha3Code": "BIH",
+	"latlng": [44, 18],
+	"name": "Bosnia and Herzegovina",
+	"population": 3791622,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["BAM"]
+}, {
+	"alpha2Code": "BW",
+	"capital": "Gaborone",
+	"alpha3Code": "BWA",
+	"latlng": [-22, 24],
+	"name": "Botswana",
+	"population": 2070984,
+	"region": "Africa",
+	"subregion": "Southern Africa",
+	"currencies": ["BWP"]
+}, {
+	"alpha2Code": "BV",
+	"capital": "",
+	"alpha3Code": "BVT",
+	"latlng": [-54.43333333, 3.4],
+	"name": "Bouvet Island",
+	"population": 0,
+	"region": "",
+	"subregion": "",
+	"currencies": ["NOK"]
+}, {
+	"alpha2Code": "BR",
+	"capital": "Brasília",
+	"alpha3Code": "BRA",
+	"latlng": [-10, -55],
+	"name": "Brazil",
+	"population": 204772000,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["BRL"]
+}, {
+	"alpha2Code": "IO",
+	"capital": "Diego Garcia",
+	"alpha3Code": "IOT",
+	"latlng": [-6, 71.5],
+	"name": "British Indian Ocean Territory",
+	"population": 3000,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "UM",
+	"capital": "",
+	"alpha3Code": "UMI",
+	"latlng": [],
+	"name": "United States Minor Outlying Islands",
+	"population": 300,
+	"region": "Americas",
+	"subregion": "Northern America",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "VG",
+	"capital": "Road Town",
+	"alpha3Code": "VGB",
+	"latlng": [18.431383, -64.62305],
+	"name": "British Virgin Islands",
+	"population": 28054,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "BN",
+	"capital": "Bandar Seri Begawan",
+	"alpha3Code": "BRN",
+	"latlng": [4.5, 114.66666666],
+	"name": "Brunei",
+	"population": 393372,
+	"region": "Asia",
+	"subregion": "South-Eastern Asia",
+	"currencies": ["BND"]
+}, {
+	"alpha2Code": "BG",
+	"capital": "Sofia",
+	"alpha3Code": "BGR",
+	"latlng": [43, 25],
+	"name": "Bulgaria",
+	"population": 7202198,
+	"region": "Europe",
+	"subregion": "Eastern Europe",
+	"currencies": ["BGN"]
+}, {
+	"alpha2Code": "BF",
+	"capital": "Ouagadougou",
+	"alpha3Code": "BFA",
+	"latlng": [13, -2],
+	"name": "Burkina Faso",
+	"population": 18450494,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["XOF"]
+}, {
+	"alpha2Code": "BI",
+	"capital": "Bujumbura",
+	"alpha3Code": "BDI",
+	"latlng": [-3.5, 30],
+	"name": "Burundi",
+	"population": 9823827,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["BIF"]
+}, {
+	"alpha2Code": "KH",
+	"capital": "Phnom Penh",
+	"alpha3Code": "KHM",
+	"latlng": [13, 105],
+	"name": "Cambodia",
+	"population": 15405157,
+	"region": "Asia",
+	"subregion": "South-Eastern Asia",
+	"currencies": ["KHR"]
+}, {
+	"alpha2Code": "CM",
+	"capital": "Yaoundé",
+	"alpha3Code": "CMR",
+	"latlng": [6, 12],
+	"name": "Cameroon",
+	"population": 23344000,
+	"region": "Africa",
+	"subregion": "Middle Africa",
+	"currencies": ["XAF"]
+}, {
+	"alpha2Code": "CA",
+	"capital": "Ottawa",
+	"alpha3Code": "CAN",
+	"latlng": [60, -95],
+	"name": "Canada",
+	"population": 35749600,
+	"region": "Americas",
+	"subregion": "Northern America",
+	"currencies": ["CAD"]
+}, {
+	"alpha2Code": "CV",
+	"capital": "Praia",
+	"alpha3Code": "CPV",
+	"latlng": [16, -24],
+	"name": "Cape Verde",
+	"population": 524833,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["CVE"]
+}, {
+	"alpha2Code": "KY",
+	"capital": "George Town",
+	"alpha3Code": "CYM",
+	"latlng": [19.5, -80.5],
+	"name": "Cayman Islands",
+	"population": 58238,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["KYD"]
+}, {
+	"alpha2Code": "CF",
+	"capital": "Bangui",
+	"alpha3Code": "CAF",
+	"latlng": [7, 21],
+	"name": "Central African Republic",
+	"population": 4900000,
+	"region": "Africa",
+	"subregion": "Middle Africa",
+	"currencies": ["XAF"]
+}, {
+	"alpha2Code": "TD",
+	"capital": "N'Djamena",
+	"alpha3Code": "TCD",
+	"latlng": [15, 19],
+	"name": "Chad",
+	"population": 14037000,
+	"region": "Africa",
+	"subregion": "Middle Africa",
+	"currencies": ["XAF"]
+}, {
+	"alpha2Code": "CL",
+	"capital": "Santiago",
+	"alpha3Code": "CHL",
+	"latlng": [-30, -71],
+	"name": "Chile",
+	"population": 18006407,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["CLF", "CLP"]
+}, {
+	"alpha2Code": "CN",
+	"capital": "Beijing",
+	"alpha3Code": "CHN",
+	"latlng": [35, 105],
+	"name": "China",
+	"population": 1371590000,
+	"region": "Asia",
+	"subregion": "Eastern Asia",
+	"currencies": ["CNY"]
+}, {
+	"alpha2Code": "CX",
+	"capital": "Flying Fish Cove",
+	"alpha3Code": "CXR",
+	"latlng": [-10.5, 105.66666666],
+	"name": "Christmas Island",
+	"population": 2072,
+	"region": "Oceania",
+	"subregion": "Australia and New Zealand",
+	"currencies": ["AUD"]
+}, {
+	"alpha2Code": "CC",
+	"capital": "West Island",
+	"alpha3Code": "CCK",
+	"latlng": [-12.5, 96.83333333],
+	"name": "Cocos (Keeling) Islands",
+	"population": 550,
+	"region": "Oceania",
+	"subregion": "Australia and New Zealand",
+	"currencies": ["AUD"]
+}, {
+	"alpha2Code": "CO",
+	"capital": "Bogotá",
+	"alpha3Code": "COL",
+	"latlng": [4, -72],
+	"name": "Colombia",
+	"population": 48266600,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["COP"]
+}, {
+	"alpha2Code": "KM",
+	"capital": "Moroni",
+	"alpha3Code": "COM",
+	"latlng": [-12.16666666, 44.25],
+	"name": "Comoros",
+	"population": 784745,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["KMF"]
+}, {
+	"alpha2Code": "CG",
+	"capital": "Brazzaville",
+	"alpha3Code": "COG",
+	"latlng": [-1, 15],
+	"name": "Republic of the Congo",
+	"population": 4620000,
+	"region": "Africa",
+	"subregion": "Middle Africa",
+	"currencies": ["XAF"]
+}, {
+	"alpha2Code": "CD",
+	"capital": "Kinshasa",
+	"alpha3Code": "COD",
+	"latlng": [0, 25],
+	"name": "Democratic Republic of the Congo",
+	"population": 77267000,
+	"region": "Africa",
+	"subregion": "Middle Africa",
+	"currencies": ["CDF"]
+}, {
+	"alpha2Code": "CK",
+	"capital": "Avarua",
+	"alpha3Code": "COK",
+	"latlng": [-21.23333333, -159.76666666],
+	"name": "Cook Islands",
+	"population": 14974,
+	"region": "Oceania",
+	"subregion": "Polynesia",
+	"currencies": ["NZD"]
+}, {
+	"alpha2Code": "CR",
+	"capital": "San José",
+	"alpha3Code": "CRI",
+	"latlng": [10, -84],
+	"name": "Costa Rica",
+	"population": 4773130,
+	"region": "Americas",
+	"subregion": "Central America",
+	"currencies": ["CRC"]
+}, {
+	"alpha2Code": "HR",
+	"capital": "Zagreb",
+	"alpha3Code": "HRV",
+	"latlng": [45.16666666, 15.5],
+	"name": "Croatia",
+	"population": 4246800,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["HRK"]
+}, {
+	"alpha2Code": "CU",
+	"capital": "Havana",
+	"alpha3Code": "CUB",
+	"latlng": [21.5, -80],
+	"name": "Cuba",
+	"population": 11238317,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["CUC", "CUP"]
+}, {
+	"alpha2Code": "CW",
+	"capital": "Willemstad",
+	"alpha3Code": "CUW",
+	"latlng": [12.116667, -68.933333],
+	"name": "Curaçao",
+	"population": 154843,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["ANG"]
+}, {
+	"alpha2Code": "CY",
+	"capital": "Nicosia",
+	"alpha3Code": "CYP",
+	"latlng": [35, 33],
+	"name": "Cyprus",
+	"population": 858000,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "CZ",
+	"capital": "Prague",
+	"alpha3Code": "CZE",
+	"latlng": [49.75, 15.5],
+	"name": "Czech Republic",
+	"population": 10537818,
+	"region": "Europe",
+	"subregion": "Eastern Europe",
+	"currencies": ["CZK"]
+}, {
+	"alpha2Code": "DK",
+	"capital": "Copenhagen",
+	"alpha3Code": "DNK",
+	"latlng": [56, 10],
+	"name": "Denmark",
+	"population": 5678348,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["DKK"]
+}, {
+	"alpha2Code": "DJ",
+	"capital": "Djibouti",
+	"alpha3Code": "DJI",
+	"latlng": [11.5, 43],
+	"name": "Djibouti",
+	"population": 888000,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["DJF"]
+}, {
+	"alpha2Code": "DM",
+	"capital": "Roseau",
+	"alpha3Code": "DMA",
+	"latlng": [15.41666666, -61.33333333],
+	"name": "Dominica",
+	"population": 71293,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["XCD"]
+}, {
+	"alpha2Code": "DO",
+	"capital": "Santo Domingo",
+	"alpha3Code": "DOM",
+	"latlng": [19, -70.66666666],
+	"name": "Dominican Republic",
+	"population": 10528000,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["DOP"]
+}, {
+	"alpha2Code": "EC",
+	"capital": "Quito",
+	"alpha3Code": "ECU",
+	"latlng": [-2, -77.5],
+	"name": "Ecuador",
+	"population": 16027500,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "EG",
+	"capital": "Cairo",
+	"alpha3Code": "EGY",
+	"latlng": [27, 30],
+	"name": "Egypt",
+	"population": 89335600,
+	"region": "Africa",
+	"subregion": "Northern Africa",
+	"currencies": ["EGP"]
+}, {
+	"alpha2Code": "SV",
+	"capital": "San Salvador",
+	"alpha3Code": "SLV",
+	"latlng": [13.83333333, -88.91666666],
+	"name": "El Salvador",
+	"population": 6401240,
+	"region": "Americas",
+	"subregion": "Central America",
+	"currencies": ["SVC", "USD"]
+}, {
+	"alpha2Code": "GQ",
+	"capital": "Malabo",
+	"alpha3Code": "GNQ",
+	"latlng": [2, 10],
+	"name": "Equatorial Guinea",
+	"population": 1430000,
+	"region": "Africa",
+	"subregion": "Middle Africa",
+	"currencies": ["XAF"]
+}, {
+	"alpha2Code": "ER",
+	"capital": "Asmara",
+	"alpha3Code": "ERI",
+	"latlng": [15, 39],
+	"name": "Eritrea",
+	"population": 5228000,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["ERN"]
+}, {
+	"alpha2Code": "EE",
+	"capital": "Tallinn",
+	"alpha3Code": "EST",
+	"latlng": [59, 26],
+	"name": "Estonia",
+	"population": 1313271,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "ET",
+	"capital": "Addis Ababa",
+	"alpha3Code": "ETH",
+	"latlng": [8, 38],
+	"name": "Ethiopia",
+	"population": 90076012,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["ETB"]
+}, {
+	"alpha2Code": "FK",
+	"capital": "Stanley",
+	"alpha3Code": "FLK",
+	"latlng": [-51.75, -59],
+	"name": "Falkland Islands",
+	"population": 3000,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["FKP"]
+}, {
+	"alpha2Code": "FO",
+	"capital": "Tórshavn",
+	"alpha3Code": "FRO",
+	"latlng": [62, -7],
+	"name": "Faroe Islands",
+	"population": 48846,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["DKK"]
+}, {
+	"alpha2Code": "FJ",
+	"capital": "Suva",
+	"alpha3Code": "FJI",
+	"latlng": [-18, 175],
+	"name": "Fiji",
+	"population": 859178,
+	"region": "Oceania",
+	"subregion": "Melanesia",
+	"currencies": ["FJD"]
+}, {
+	"alpha2Code": "FI",
+	"capital": "Helsinki",
+	"alpha3Code": "FIN",
+	"latlng": [64, 26],
+	"name": "Finland",
+	"population": 5485215,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "FR",
+	"capital": "Paris",
+	"alpha3Code": "FRA",
+	"latlng": [46, 2],
+	"name": "France",
+	"population": 66186000,
+	"region": "Europe",
+	"subregion": "Western Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "GF",
+	"capital": "Cayenne",
+	"alpha3Code": "GUF",
+	"latlng": [4, -53],
+	"name": "French Guiana",
+	"population": 239648,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "PF",
+	"capital": "Papeetē",
+	"alpha3Code": "PYF",
+	"latlng": [-15, -140],
+	"name": "French Polynesia",
+	"population": 268270,
+	"region": "Oceania",
+	"subregion": "Polynesia",
+	"currencies": ["XPF"]
+}, {
+	"alpha2Code": "TF",
+	"capital": "Port-aux-Français",
+	"alpha3Code": "ATF",
+	"latlng": [-49.25, 69.167],
+	"name": "French Southern and Antarctic Lands",
+	"population": 140,
+	"region": "",
+	"subregion": "",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "GA",
+	"capital": "Libreville",
+	"alpha3Code": "GAB",
+	"latlng": [-1, 11.75],
+	"name": "Gabon",
+	"population": 1725000,
+	"region": "Africa",
+	"subregion": "Middle Africa",
+	"currencies": ["XAF"]
+}, {
+	"alpha2Code": "GM",
+	"capital": "Banjul",
+	"alpha3Code": "GMB",
+	"latlng": [13.46666666, -16.56666666],
+	"name": "The Gambia",
+	"population": 1882450,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["GMD"]
+}, {
+	"alpha2Code": "GE",
+	"capital": "Tbilisi",
+	"alpha3Code": "GEO",
+	"latlng": [42, 43.5],
+	"name": "Georgia",
+	"population": 3729500,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["GEL"]
+}, {
+	"alpha2Code": "DE",
+	"capital": "Berlin",
+	"alpha3Code": "DEU",
+	"latlng": [51, 9],
+	"name": "Germany",
+	"population": 81083600,
+	"region": "Europe",
+	"subregion": "Western Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "GH",
+	"capital": "Accra",
+	"alpha3Code": "GHA",
+	"latlng": [8, -2],
+	"name": "Ghana",
+	"population": 27043093,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["GHS"]
+}, {
+	"alpha2Code": "GI",
+	"capital": "Gibraltar",
+	"alpha3Code": "GIB",
+	"latlng": [36.13333333, -5.35],
+	"name": "Gibraltar",
+	"population": 32734,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["GIP"]
+}, {
+	"alpha2Code": "GR",
+	"capital": "Athens",
+	"alpha3Code": "GRC",
+	"latlng": [39, 22],
+	"name": "Greece",
+	"population": 10846979,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "GL",
+	"capital": "Nuuk",
+	"alpha3Code": "GRL",
+	"latlng": [72, -40],
+	"name": "Greenland",
+	"population": 56114,
+	"region": "Americas",
+	"subregion": "Northern America",
+	"currencies": ["DKK"]
+}, {
+	"alpha2Code": "GD",
+	"capital": "St. George's",
+	"alpha3Code": "GRD",
+	"latlng": [12.11666666, -61.66666666],
+	"name": "Grenada",
+	"population": 103328,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["XCD"]
+}, {
+	"alpha2Code": "GP",
+	"capital": "Basse-Terre",
+	"alpha3Code": "GLP",
+	"latlng": [16.25, -61.583333],
+	"name": "Guadeloupe",
+	"population": 403750,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "GU",
+	"capital": "Hagåtña",
+	"alpha3Code": "GUM",
+	"latlng": [13.46666666, 144.78333333],
+	"name": "Guam",
+	"population": 159358,
+	"region": "Oceania",
+	"subregion": "Micronesia",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "GT",
+	"capital": "Guatemala City",
+	"alpha3Code": "GTM",
+	"latlng": [15.5, -90.25],
+	"name": "Guatemala",
+	"population": 16176133,
+	"region": "Americas",
+	"subregion": "Central America",
+	"currencies": ["GTQ"]
+}, {
+	"alpha2Code": "GG",
+	"capital": "St. Peter Port",
+	"alpha3Code": "GGY",
+	"latlng": [49.46666666, -2.58333333],
+	"name": "Guernsey",
+	"population": 65150,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["GBP"]
+}, {
+	"alpha2Code": "GN",
+	"capital": "Conakry",
+	"alpha3Code": "GIN",
+	"latlng": [11, -10],
+	"name": "Guinea",
+	"population": 10628972,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["GNF"]
+}, {
+	"alpha2Code": "GW",
+	"capital": "Bissau",
+	"alpha3Code": "GNB",
+	"latlng": [12, -15],
+	"name": "Guinea-Bissau",
+	"population": 1844000,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["XOF"]
+}, {
+	"alpha2Code": "GY",
+	"capital": "Georgetown",
+	"alpha3Code": "GUY",
+	"latlng": [5, -59],
+	"name": "Guyana",
+	"population": 746900,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["GYD"]
+}, {
+	"alpha2Code": "HT",
+	"capital": "Port-au-Prince",
+	"alpha3Code": "HTI",
+	"latlng": [19, -72.41666666],
+	"name": "Haiti",
+	"population": 10911819,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["HTG", "USD"]
+}, {
+	"alpha2Code": "HM",
+	"capital": "",
+	"alpha3Code": "HMD",
+	"latlng": [-53.1, 72.51666666],
+	"name": "Heard Island and McDonald Islands",
+	"population": 0,
+	"region": "",
+	"subregion": "",
+	"currencies": ["AUD"]
+}, {
+	"alpha2Code": "HN",
+	"capital": "Tegucigalpa",
+	"alpha3Code": "HND",
+	"latlng": [15, -86.5],
+	"name": "Honduras",
+	"population": 8725111,
+	"region": "Americas",
+	"subregion": "Central America",
+	"currencies": ["HNL"]
+}, {
+	"alpha2Code": "HK",
+	"capital": "City of Victoria",
+	"alpha3Code": "HKG",
+	"latlng": [22.25, 114.16666666],
+	"name": "Hong Kong",
+	"population": 7298600,
+	"region": "Asia",
+	"subregion": "Eastern Asia",
+	"currencies": ["HKD"]
+}, {
+	"alpha2Code": "HU",
+	"capital": "Budapest",
+	"alpha3Code": "HUN",
+	"latlng": [47, 20],
+	"name": "Hungary",
+	"population": 9849000,
+	"region": "Europe",
+	"subregion": "Eastern Europe",
+	"currencies": ["HUF"]
+}, {
+	"alpha2Code": "IS",
+	"capital": "Reykjavik",
+	"alpha3Code": "ISL",
+	"latlng": [65, -18],
+	"name": "Iceland",
+	"population": 330610,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["ISK"]
+}, {
+	"alpha2Code": "IN",
+	"capital": "New Delhi",
+	"alpha3Code": "IND",
+	"latlng": [20, 77],
+	"name": "India",
+	"population": 1275840000,
+	"region": "Asia",
+	"subregion": "Southern Asia",
+	"currencies": ["INR"]
+}, {
+	"alpha2Code": "ID",
+	"capital": "Jakarta",
+	"alpha3Code": "IDN",
+	"latlng": [-5, 120],
+	"name": "Indonesia",
+	"population": 255461700,
+	"region": "Asia",
+	"subregion": "South-Eastern Asia",
+	"currencies": ["IDR"]
+}, {
+	"alpha2Code": "CI",
+	"capital": "Yamoussoukro",
+	"alpha3Code": "CIV",
+	"latlng": [8, -5],
+	"name": "Ivory Coast",
+	"population": 22671331,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["XOF"]
+}, {
+	"alpha2Code": "IR",
+	"capital": "Tehran",
+	"alpha3Code": "IRN",
+	"latlng": [32, 53],
+	"name": "Iran",
+	"population": 78572500,
+	"region": "Asia",
+	"subregion": "Southern Asia",
+	"currencies": ["IRR"]
+}, {
+	"alpha2Code": "IQ",
+	"capital": "Baghdad",
+	"alpha3Code": "IRQ",
+	"latlng": [33, 44],
+	"name": "Iraq",
+	"population": 36004552,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["IQD"]
+}, {
+	"alpha2Code": "IE",
+	"capital": "Dublin",
+	"alpha3Code": "IRL",
+	"latlng": [53, -8],
+	"name": "Republic of Ireland",
+	"population": 6378000,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "IM",
+	"capital": "Douglas",
+	"alpha3Code": "IMN",
+	"latlng": [54.25, -4.5],
+	"name": "Isle of Man",
+	"population": 84497,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["GBP"]
+}, {
+	"alpha2Code": "IL",
+	"capital": "Jerusalem",
+	"alpha3Code": "ISR",
+	"latlng": [31.5, 34.75],
+	"name": "Israel",
+	"population": 8371600,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["ILS"]
+}, {
+	"alpha2Code": "IT",
+	"capital": "Rome",
+	"alpha3Code": "ITA",
+	"latlng": [42.83333333, 12.83333333],
+	"name": "Italy",
+	"population": 60753794,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "JM",
+	"capital": "Kingston",
+	"alpha3Code": "JAM",
+	"latlng": [18.25, -77.5],
+	"name": "Jamaica",
+	"population": 2717991,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["JMD"]
+}, {
+	"alpha2Code": "JP",
+	"capital": "Tokyo",
+	"alpha3Code": "JPN",
+	"latlng": [36, 138],
+	"name": "Japan",
+	"population": 126865000,
+	"region": "Asia",
+	"subregion": "Eastern Asia",
+	"currencies": ["JPY"]
+}, {
+	"alpha2Code": "JE",
+	"capital": "Saint Helier",
+	"alpha3Code": "JEY",
+	"latlng": [49.25, -2.16666666],
+	"name": "Jersey",
+	"population": 99000,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["GBP"]
+}, {
+	"alpha2Code": "JO",
+	"capital": "Amman",
+	"alpha3Code": "JOR",
+	"latlng": [31, 36],
+	"name": "Jordan",
+	"population": 6767600,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["JOD"]
+}, {
+	"alpha2Code": "KZ",
+	"capital": "Astana",
+	"alpha3Code": "KAZ",
+	"latlng": [48, 68],
+	"name": "Kazakhstan",
+	"population": 17541200,
+	"region": "Asia",
+	"subregion": "Central Asia",
+	"currencies": ["KZT"]
+}, {
+	"alpha2Code": "KE",
+	"capital": "Nairobi",
+	"alpha3Code": "KEN",
+	"latlng": [1, 38],
+	"name": "Kenya",
+	"population": 46050000,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["KES"]
+}, {
+	"alpha2Code": "KI",
+	"capital": "South Tarawa",
+	"alpha3Code": "KIR",
+	"latlng": [1.41666666, 173],
+	"name": "Kiribati",
+	"population": 106461,
+	"region": "Oceania",
+	"subregion": "Micronesia",
+	"currencies": ["AUD"]
+}, {
+	"alpha2Code": "KW",
+	"capital": "Kuwait City",
+	"alpha3Code": "KWT",
+	"latlng": [29.5, 45.75],
+	"name": "Kuwait",
+	"population": 3268431,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["KWD"]
+}, {
+	"alpha2Code": "KG",
+	"capital": "Bishkek",
+	"alpha3Code": "KGZ",
+	"latlng": [41, 75],
+	"name": "Kyrgyzstan",
+	"population": 5944400,
+	"region": "Asia",
+	"subregion": "Central Asia",
+	"currencies": ["KGS"]
+}, {
+	"alpha2Code": "LA",
+	"capital": "Vientiane",
+	"alpha3Code": "LAO",
+	"latlng": [18, 105],
+	"name": "Laos",
+	"population": 6802000,
+	"region": "Asia",
+	"subregion": "South-Eastern Asia",
+	"currencies": ["LAK"]
+}, {
+	"alpha2Code": "LV",
+	"capital": "Riga",
+	"alpha3Code": "LVA",
+	"latlng": [57, 25],
+	"name": "Latvia",
+	"population": 1980700,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "LB",
+	"capital": "Beirut",
+	"alpha3Code": "LBN",
+	"latlng": [33.83333333, 35.83333333],
+	"name": "Lebanon",
+	"population": 4104000,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["LBP"]
+}, {
+	"alpha2Code": "LS",
+	"capital": "Maseru",
+	"alpha3Code": "LSO",
+	"latlng": [-29.5, 28.5],
+	"name": "Lesotho",
+	"population": 2135000,
+	"region": "Africa",
+	"subregion": "Southern Africa",
+	"currencies": ["LSL", "ZAR"]
+}, {
+	"alpha2Code": "LR",
+	"capital": "Monrovia",
+	"alpha3Code": "LBR",
+	"latlng": [6.5, -9.5],
+	"name": "Liberia",
+	"population": 4503000,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["LRD"]
+}, {
+	"alpha2Code": "LY",
+	"capital": "Tripoli",
+	"alpha3Code": "LBY",
+	"latlng": [25, 17],
+	"name": "Libya",
+	"population": 6278000,
+	"region": "Africa",
+	"subregion": "Northern Africa",
+	"currencies": ["LYD"]
+}, {
+	"alpha2Code": "LI",
+	"capital": "Vaduz",
+	"alpha3Code": "LIE",
+	"latlng": [47.26666666, 9.53333333],
+	"name": "Liechtenstein",
+	"population": 37370,
+	"region": "Europe",
+	"subregion": "Western Europe",
+	"currencies": ["CHF"]
+}, {
+	"alpha2Code": "LT",
+	"capital": "Vilnius",
+	"alpha3Code": "LTU",
+	"latlng": [56, 24],
+	"name": "Lithuania",
+	"population": 2900787,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "LU",
+	"capital": "Luxembourg",
+	"alpha3Code": "LUX",
+	"latlng": [49.75, 6.16666666],
+	"name": "Luxembourg",
+	"population": 562958,
+	"region": "Europe",
+	"subregion": "Western Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "MO",
+	"capital": "",
+	"alpha3Code": "MAC",
+	"latlng": [22.16666666, 113.55],
+	"name": "Macau",
+	"population": 642900,
+	"region": "Asia",
+	"subregion": "Eastern Asia",
+	"currencies": ["MOP"]
+}, {
+	"alpha2Code": "MK",
+	"capital": "Skopje",
+	"alpha3Code": "MKD",
+	"latlng": [41.83333333, 22],
+	"name": "Republic of Macedonia",
+	"population": 2058539,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["MKD"]
+}, {
+	"alpha2Code": "MG",
+	"capital": "Antananarivo",
+	"alpha3Code": "MDG",
+	"latlng": [-20, 47],
+	"name": "Madagascar",
+	"population": 22434363,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["MGA"]
+}, {
+	"alpha2Code": "MW",
+	"capital": "Lilongwe",
+	"alpha3Code": "MWI",
+	"latlng": [-13.5, 34],
+	"name": "Malawi",
+	"population": 16310431,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["MWK"]
+}, {
+	"alpha2Code": "MY",
+	"capital": "Kuala Lumpur",
+	"alpha3Code": "MYS",
+	"latlng": [2.5, 112.5],
+	"name": "Malaysia",
+	"population": 30678800,
+	"region": "Asia",
+	"subregion": "South-Eastern Asia",
+	"currencies": ["MYR"]
+}, {
+	"alpha2Code": "MV",
+	"capital": "Malé",
+	"alpha3Code": "MDV",
+	"latlng": [3.25, 73],
+	"name": "Maldives",
+	"population": 341256,
+	"region": "Asia",
+	"subregion": "Southern Asia",
+	"currencies": ["MVR"]
+}, {
+	"alpha2Code": "ML",
+	"capital": "Bamako",
+	"alpha3Code": "MLI",
+	"latlng": [17, -4],
+	"name": "Mali",
+	"population": 17600000,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["XOF"]
+}, {
+	"alpha2Code": "MT",
+	"capital": "Valletta",
+	"alpha3Code": "MLT",
+	"latlng": [35.83333333, 14.58333333],
+	"name": "Malta",
+	"population": 445426,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "MH",
+	"capital": "Majuro",
+	"alpha3Code": "MHL",
+	"latlng": [9, 168],
+	"name": "Marshall Islands",
+	"population": 56086,
+	"region": "Oceania",
+	"subregion": "Micronesia",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "MQ",
+	"capital": "Fort-de-France",
+	"alpha3Code": "MTQ",
+	"latlng": [14.666667, -61],
+	"name": "Martinique",
+	"population": 381326,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "MR",
+	"capital": "Nouakchott",
+	"alpha3Code": "MRT",
+	"latlng": [20, -12],
+	"name": "Mauritania",
+	"population": 3631775,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["MRO"]
+}, {
+	"alpha2Code": "MU",
+	"capital": "Port Louis",
+	"alpha3Code": "MUS",
+	"latlng": [-20.28333333, 57.55],
+	"name": "Mauritius",
+	"population": 1261208,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["MUR"]
+}, {
+	"alpha2Code": "YT",
+	"capital": "Mamoudzou",
+	"alpha3Code": "MYT",
+	"latlng": [-12.83333333, 45.16666666],
+	"name": "Mayotte",
+	"population": 212645,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "MX",
+	"capital": "Mexico City",
+	"alpha3Code": "MEX",
+	"latlng": [23, -102],
+	"name": "Mexico",
+	"population": 121740000,
+	"region": "Americas",
+	"subregion": "Central America",
+	"currencies": ["MXN"]
+}, {
+	"alpha2Code": "FM",
+	"capital": "Palikir",
+	"alpha3Code": "FSM",
+	"latlng": [6.91666666, 158.25],
+	"name": "Federated States of Micronesia",
+	"population": 101351,
+	"region": "Oceania",
+	"subregion": "Micronesia",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "MD",
+	"capital": "Chișinău",
+	"alpha3Code": "MDA",
+	"latlng": [47, 29],
+	"name": "Moldova",
+	"population": 3555200,
+	"region": "Europe",
+	"subregion": "Eastern Europe",
+	"currencies": ["MDL"]
+}, {
+	"alpha2Code": "MC",
+	"capital": "Monaco",
+	"alpha3Code": "MCO",
+	"latlng": [43.73333333, 7.4],
+	"name": "Monaco",
+	"population": 37800,
+	"region": "Europe",
+	"subregion": "Western Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "MN",
+	"capital": "Ulan Bator",
+	"alpha3Code": "MNG",
+	"latlng": [46, 105],
+	"name": "Mongolia",
+	"population": 3031099,
+	"region": "Asia",
+	"subregion": "Eastern Asia",
+	"currencies": ["MNT"]
+}, {
+	"alpha2Code": "ME",
+	"capital": "Podgorica",
+	"alpha3Code": "MNE",
+	"latlng": [42.5, 19.3],
+	"name": "Montenegro",
+	"population": 621207,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "MS",
+	"capital": "Plymouth",
+	"alpha3Code": "MSR",
+	"latlng": [16.75, -62.2],
+	"name": "Montserrat",
+	"population": 4922,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["XCD"]
+}, {
+	"alpha2Code": "MA",
+	"capital": "Rabat",
+	"alpha3Code": "MAR",
+	"latlng": [32, -5],
+	"name": "Morocco",
+	"population": 33337529,
+	"region": "Africa",
+	"subregion": "Northern Africa",
+	"currencies": ["MAD"]
+}, {
+	"alpha2Code": "MZ",
+	"capital": "Maputo",
+	"alpha3Code": "MOZ",
+	"latlng": [-18.25, 35],
+	"name": "Mozambique",
+	"population": 25727911,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["MZN"]
+}, {
+	"alpha2Code": "MM",
+	"capital": "Naypyidaw",
+	"alpha3Code": "MMR",
+	"latlng": [22, 98],
+	"name": "Myanmar",
+	"population": 53897000,
+	"region": "Asia",
+	"subregion": "South-Eastern Asia",
+	"currencies": ["MMK"]
+}, {
+	"alpha2Code": "NA",
+	"capital": "Windhoek",
+	"alpha3Code": "NAM",
+	"latlng": [-22, 17],
+	"name": "Namibia",
+	"population": 2280700,
+	"region": "Africa",
+	"subregion": "Southern Africa",
+	"currencies": ["NAD", "ZAR"]
+}, {
+	"alpha2Code": "NR",
+	"capital": "Yaren",
+	"alpha3Code": "NRU",
+	"latlng": [-0.53333333, 166.91666666],
+	"name": "Nauru",
+	"population": 10084,
+	"region": "Oceania",
+	"subregion": "Micronesia",
+	"currencies": ["AUD"]
+}, {
+	"alpha2Code": "NP",
+	"capital": "Kathmandu",
+	"alpha3Code": "NPL",
+	"latlng": [28, 84],
+	"name": "Nepal",
+	"population": 28037904,
+	"region": "Asia",
+	"subregion": "Southern Asia",
+	"currencies": ["NPR"]
+}, {
+	"alpha2Code": "NL",
+	"capital": "Amsterdam",
+	"alpha3Code": "NLD",
+	"latlng": [52.5, 5.75],
+	"name": "Netherlands",
+	"population": 16916000,
+	"region": "Europe",
+	"subregion": "Western Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "NC",
+	"capital": "Nouméa",
+	"alpha3Code": "NCL",
+	"latlng": [-21.5, 165.5],
+	"name": "New Caledonia",
+	"population": 268767,
+	"region": "Oceania",
+	"subregion": "Melanesia",
+	"currencies": ["XPF"]
+}, {
+	"alpha2Code": "NZ",
+	"capital": "Wellington",
+	"alpha3Code": "NZL",
+	"latlng": [-41, 174],
+	"name": "New Zealand",
+	"population": 4609440,
+	"region": "Oceania",
+	"subregion": "Australia and New Zealand",
+	"currencies": ["NZD"]
+}, {
+	"alpha2Code": "NI",
+	"capital": "Managua",
+	"alpha3Code": "NIC",
+	"latlng": [13, -85],
+	"name": "Nicaragua",
+	"population": 6198154,
+	"region": "Americas",
+	"subregion": "Central America",
+	"currencies": ["NIO"]
+}, {
+	"alpha2Code": "NE",
+	"capital": "Niamey",
+	"alpha3Code": "NER",
+	"latlng": [16, 8],
+	"name": "Niger",
+	"population": 19899000,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["XOF"]
+}, {
+	"alpha2Code": "NG",
+	"capital": "Abuja",
+	"alpha3Code": "NGA",
+	"latlng": [10, 8],
+	"name": "Nigeria",
+	"population": 182202000,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["NGN"]
+}, {
+	"alpha2Code": "NU",
+	"capital": "Alofi",
+	"alpha3Code": "NIU",
+	"latlng": [-19.03333333, -169.86666666],
+	"name": "Niue",
+	"population": 1613,
+	"region": "Oceania",
+	"subregion": "Polynesia",
+	"currencies": ["NZD"]
+}, {
+	"alpha2Code": "NF",
+	"capital": "Kingston",
+	"alpha3Code": "NFK",
+	"latlng": [-29.03333333, 167.95],
+	"name": "Norfolk Island",
+	"population": 2302,
+	"region": "Oceania",
+	"subregion": "Australia and New Zealand",
+	"currencies": ["AUD"]
+}, {
+	"alpha2Code": "KP",
+	"capital": "Pyongyang",
+	"alpha3Code": "PRK",
+	"latlng": [40, 127],
+	"name": "North Korea",
+	"population": 25155000,
+	"region": "Asia",
+	"subregion": "Eastern Asia",
+	"currencies": ["KPW"]
+}, {
+	"alpha2Code": "MP",
+	"capital": "Saipan",
+	"alpha3Code": "MNP",
+	"latlng": [15.2, 145.75],
+	"name": "Northern Mariana Islands",
+	"population": 53883,
+	"region": "Oceania",
+	"subregion": "Micronesia",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "NO",
+	"capital": "Oslo",
+	"alpha3Code": "NOR",
+	"latlng": [62, 10],
+	"name": "Norway",
+	"population": 5176998,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["NOK"]
+}, {
+	"alpha2Code": "OM",
+	"capital": "Muscat",
+	"alpha3Code": "OMN",
+	"latlng": [21, 57],
+	"name": "Oman",
+	"population": 4185440,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["OMR"]
+}, {
+	"alpha2Code": "PK",
+	"capital": "Islamabad",
+	"alpha3Code": "PAK",
+	"latlng": [30, 70],
+	"name": "Pakistan",
+	"population": 190668000,
+	"region": "Asia",
+	"subregion": "Southern Asia",
+	"currencies": ["PKR"]
+}, {
+	"alpha2Code": "PW",
+	"capital": "Ngerulmud",
+	"alpha3Code": "PLW",
+	"latlng": [7.5, 134.5],
+	"name": "Palau",
+	"population": 20901,
+	"region": "Oceania",
+	"subregion": "Micronesia",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "PS",
+	"capital": "Ramallah",
+	"alpha3Code": "PSE",
+	"latlng": [31.9, 35.2],
+	"name": "Palestine",
+	"population": 4682467,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["ILS"]
+}, {
+	"alpha2Code": "PA",
+	"capital": "Panama City",
+	"alpha3Code": "PAN",
+	"latlng": [9, -80],
+	"name": "Panama",
+	"population": 3764166,
+	"region": "Americas",
+	"subregion": "Central America",
+	"currencies": ["PAB", "USD"]
+}, {
+	"alpha2Code": "PG",
+	"capital": "Port Moresby",
+	"alpha3Code": "PNG",
+	"latlng": [-6, 147],
+	"name": "Papua New Guinea",
+	"population": 7398500,
+	"region": "Oceania",
+	"subregion": "Melanesia",
+	"currencies": ["PGK"]
+}, {
+	"alpha2Code": "PY",
+	"capital": "Asunción",
+	"alpha3Code": "PRY",
+	"latlng": [-23, -58],
+	"name": "Paraguay",
+	"population": 7003406,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["PYG"]
+}, {
+	"alpha2Code": "PE",
+	"capital": "Lima",
+	"alpha3Code": "PER",
+	"latlng": [-10, -76],
+	"name": "Peru",
+	"population": 31151643,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["PEN"]
+}, {
+	"alpha2Code": "PH",
+	"capital": "Manila",
+	"alpha3Code": "PHL",
+	"latlng": [13, 122],
+	"name": "Philippines",
+	"population": 101920000,
+	"region": "Asia",
+	"subregion": "South-Eastern Asia",
+	"currencies": ["PHP"]
+}, {
+	"alpha2Code": "PN",
+	"capital": "Adamstown",
+	"alpha3Code": "PCN",
+	"latlng": [-25.06666666, -130.1],
+	"name": "Pitcairn Islands",
+	"population": 56,
+	"region": "Oceania",
+	"subregion": "Polynesia",
+	"currencies": ["NZD"]
+}, {
+	"alpha2Code": "PL",
+	"capital": "Warsaw",
+	"alpha3Code": "POL",
+	"latlng": [52, 20],
+	"name": "Poland",
+	"population": 38484000,
+	"region": "Europe",
+	"subregion": "Eastern Europe",
+	"currencies": ["PLN"]
+}, {
+	"alpha2Code": "PT",
+	"capital": "Lisbon",
+	"alpha3Code": "PRT",
+	"latlng": [39.5, -8],
+	"name": "Portugal",
+	"population": 10374822,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "PR",
+	"capital": "San Juan",
+	"alpha3Code": "PRI",
+	"latlng": [18.25, -66.5],
+	"name": "Puerto Rico",
+	"population": 3548397,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "QA",
+	"capital": "Doha",
+	"alpha3Code": "QAT",
+	"latlng": [25.5, 51.25],
+	"name": "Qatar",
+	"population": 2120129,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["QAR"]
+}, {
+	"alpha2Code": "XK",
+	"capital": "Pristina",
+	"alpha3Code": "KOS",
+	"latlng": [42.666667, 21.166667],
+	"name": "Republic of Kosovo",
+	"population": 1733842,
+	"region": "Europe",
+	"subregion": "Eastern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "RE",
+	"capital": "Saint-Denis",
+	"alpha3Code": "REU",
+	"latlng": [-21.15, 55.5],
+	"name": "Réunion",
+	"population": 840974,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "RO",
+	"capital": "Bucharest",
+	"alpha3Code": "ROU",
+	"latlng": [46, 25],
+	"name": "Romania",
+	"population": 19942642,
+	"region": "Europe",
+	"subregion": "Eastern Europe",
+	"currencies": ["RON"]
+}, {
+	"alpha2Code": "RU",
+	"capital": "Moscow",
+	"alpha3Code": "RUS",
+	"latlng": [60, 100],
+	"name": "Russia",
+	"population": 146556330,
+	"region": "Europe",
+	"subregion": "Eastern Europe",
+	"currencies": ["RUB"]
+}, {
+	"alpha2Code": "RW",
+	"capital": "Kigali",
+	"alpha3Code": "RWA",
+	"latlng": [-2, 30],
+	"name": "Rwanda",
+	"population": 11262564,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["RWF"]
+}, {
+	"alpha2Code": "BL",
+	"capital": "Gustavia",
+	"alpha3Code": "BLM",
+	"latlng": [18.5, -63.41666666],
+	"name": "Saint Barthélemy",
+	"population": 9269,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "SH",
+	"capital": "Jamestown",
+	"alpha3Code": "SHN",
+	"latlng": [-15.95, -5.7],
+	"name": "Saint Helena",
+	"population": 4255,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["SHP"]
+}, {
+	"alpha2Code": "KN",
+	"capital": "Basseterre",
+	"alpha3Code": "KNA",
+	"latlng": [17.33333333, -62.75],
+	"name": "Saint Kitts and Nevis",
+	"population": 56000,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["XCD"]
+}, {
+	"alpha2Code": "LC",
+	"capital": "Castries",
+	"alpha3Code": "LCA",
+	"latlng": [13.88333333, -60.96666666],
+	"name": "Saint Lucia",
+	"population": 185000,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["XCD"]
+}, {
+	"alpha2Code": "MF",
+	"capital": "Marigot",
+	"alpha3Code": "MAF",
+	"latlng": [18.08333333, -63.95],
+	"name": "Saint Martin",
+	"population": 36979,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "PM",
+	"capital": "Saint-Pierre",
+	"alpha3Code": "SPM",
+	"latlng": [46.83333333, -56.33333333],
+	"name": "Saint Pierre and Miquelon",
+	"population": 6069,
+	"region": "Americas",
+	"subregion": "Northern America",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "VC",
+	"capital": "Kingstown",
+	"alpha3Code": "VCT",
+	"latlng": [13.25, -61.2],
+	"name": "Saint Vincent and the Grenadines",
+	"population": 109991,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["XCD"]
+}, {
+	"alpha2Code": "WS",
+	"capital": "Apia",
+	"alpha3Code": "WSM",
+	"latlng": [-13.58333333, -172.33333333],
+	"name": "Samoa",
+	"population": 187820,
+	"region": "Oceania",
+	"subregion": "Polynesia",
+	"currencies": ["WST"]
+}, {
+	"alpha2Code": "SM",
+	"capital": "City of San Marino",
+	"alpha3Code": "SMR",
+	"latlng": [43.76666666, 12.41666666],
+	"name": "San Marino",
+	"population": 32831,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "ST",
+	"capital": "São Tomé",
+	"alpha3Code": "STP",
+	"latlng": [1, 7],
+	"name": "São Tomé and Príncipe",
+	"population": 187356,
+	"region": "Africa",
+	"subregion": "Middle Africa",
+	"currencies": ["STD"]
+}, {
+	"alpha2Code": "SA",
+	"capital": "Riyadh",
+	"alpha3Code": "SAU",
+	"latlng": [25, 45],
+	"name": "Saudi Arabia",
+	"population": 31521418,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["SAR"]
+}, {
+	"alpha2Code": "SN",
+	"capital": "Dakar",
+	"alpha3Code": "SEN",
+	"latlng": [14, -14],
+	"name": "Senegal",
+	"population": 13508715,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["XOF"]
+}, {
+	"alpha2Code": "RS",
+	"capital": "Belgrade",
+	"alpha3Code": "SRB",
+	"latlng": [44, 21],
+	"name": "Serbia",
+	"population": 7114393,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["RSD"]
+}, {
+	"alpha2Code": "SC",
+	"capital": "Victoria",
+	"alpha3Code": "SYC",
+	"latlng": [-4.58333333, 55.66666666],
+	"name": "Seychelles",
+	"population": 89949,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["SCR"]
+}, {
+	"alpha2Code": "SL",
+	"capital": "Freetown",
+	"alpha3Code": "SLE",
+	"latlng": [8.5, -11.5],
+	"name": "Sierra Leone",
+	"population": 6453000,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["SLL"]
+}, {
+	"alpha2Code": "SG",
+	"capital": "Singapore",
+	"alpha3Code": "SGP",
+	"latlng": [1.36666666, 103.8],
+	"name": "Singapore",
+	"population": 5469700,
+	"region": "Asia",
+	"subregion": "South-Eastern Asia",
+	"currencies": ["SGD"]
+}, {
+	"alpha2Code": "SX",
+	"capital": "Philipsburg",
+	"alpha3Code": "SXM",
+	"latlng": [18.033333, -63.05],
+	"name": "Sint Maarten",
+	"population": 37429,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["ANG"]
+}, {
+	"alpha2Code": "SK",
+	"capital": "Bratislava",
+	"alpha3Code": "SVK",
+	"latlng": [48.66666666, 19.5],
+	"name": "Slovakia",
+	"population": 5421349,
+	"region": "Europe",
+	"subregion": "Eastern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "SI",
+	"capital": "Ljubljana",
+	"alpha3Code": "SVN",
+	"latlng": [46.11666666, 14.81666666],
+	"name": "Slovenia",
+	"population": 2067683,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "SB",
+	"capital": "Honiara",
+	"alpha3Code": "SLB",
+	"latlng": [-8, 159],
+	"name": "Solomon Islands",
+	"population": 581344,
+	"region": "Oceania",
+	"subregion": "Melanesia",
+	"currencies": ["SBD"]
+}, {
+	"alpha2Code": "SO",
+	"capital": "Mogadishu",
+	"alpha3Code": "SOM",
+	"latlng": [10, 49],
+	"name": "Somalia",
+	"population": 10787000,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["SOS"]
+}, {
+	"alpha2Code": "ZA",
+	"capital": "Pretoria",
+	"alpha3Code": "ZAF",
+	"latlng": [-29, 24],
+	"name": "South Africa",
+	"population": 54956900,
+	"region": "Africa",
+	"subregion": "Southern Africa",
+	"currencies": ["ZAR"]
+}, {
+	"alpha2Code": "GS",
+	"capital": "King Edward Point",
+	"alpha3Code": "SGS",
+	"latlng": [-54.5, -37],
+	"name": "South Georgia",
+	"population": 30,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["GBP"]
+}, {
+	"alpha2Code": "KR",
+	"capital": "Seoul",
+	"alpha3Code": "KOR",
+	"latlng": [37, 127.5],
+	"name": "South Korea",
+	"population": 51448183,
+	"region": "Asia",
+	"subregion": "Eastern Asia",
+	"currencies": ["KRW"]
+}, {
+	"alpha2Code": "SS",
+	"capital": "Juba",
+	"alpha3Code": "SSD",
+	"latlng": [7, 30],
+	"name": "South Sudan",
+	"population": 11892934,
+	"region": "Africa",
+	"subregion": "Middle Africa",
+	"currencies": ["SSP"]
+}, {
+	"alpha2Code": "ES",
+	"capital": "Madrid",
+	"alpha3Code": "ESP",
+	"latlng": [40, -4],
+	"name": "Spain",
+	"population": 46439864,
+	"region": "Europe",
+	"subregion": "Southern Europe",
+	"currencies": ["EUR"]
+}, {
+	"alpha2Code": "LK",
+	"capital": "Colombo",
+	"alpha3Code": "LKA",
+	"latlng": [7, 81],
+	"name": "Sri Lanka",
+	"population": 20675000,
+	"region": "Asia",
+	"subregion": "Southern Asia",
+	"currencies": ["LKR"]
+}, {
+	"alpha2Code": "SD",
+	"capital": "Khartoum",
+	"alpha3Code": "SDN",
+	"latlng": [15, 30],
+	"name": "Sudan",
+	"population": 38435252,
+	"region": "Africa",
+	"subregion": "Northern Africa",
+	"currencies": ["SDG"]
+}, {
+	"alpha2Code": "SR",
+	"capital": "Paramaribo",
+	"alpha3Code": "SUR",
+	"latlng": [4, -56],
+	"name": "Suriname",
+	"population": 534189,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["SRD"]
+}, {
+	"alpha2Code": "SJ",
+	"capital": "Longyearbyen",
+	"alpha3Code": "SJM",
+	"latlng": [78, 20],
+	"name": "Svalbard and Jan Mayen",
+	"population": 2562,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["NOK"]
+}, {
+	"alpha2Code": "SZ",
+	"capital": "Lobamba",
+	"alpha3Code": "SWZ",
+	"latlng": [-26.5, 31.5],
+	"name": "Swaziland",
+	"population": 1119375,
+	"region": "Africa",
+	"subregion": "Southern Africa",
+	"currencies": ["SZL"]
+}, {
+	"alpha2Code": "SE",
+	"capital": "Stockholm",
+	"alpha3Code": "SWE",
+	"latlng": [62, 15],
+	"name": "Sweden",
+	"population": 9793172,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["SEK"]
+}, {
+	"alpha2Code": "CH",
+	"capital": "Bern",
+	"alpha3Code": "CHE",
+	"latlng": [47, 8],
+	"name": "Switzerland",
+	"population": 8256000,
+	"region": "Europe",
+	"subregion": "Western Europe",
+	"currencies": ["CHE", "CHF", "CHW"]
+}, {
+	"alpha2Code": "SY",
+	"capital": "Damascus",
+	"alpha3Code": "SYR",
+	"latlng": [35, 38],
+	"name": "Syria",
+	"population": 23339517,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["SYP"]
+}, {
+	"alpha2Code": "TW",
+	"capital": "Taipei",
+	"alpha3Code": "TWN",
+	"latlng": [23.5, 121],
+	"name": "Taiwan",
+	"population": 23461708,
+	"region": "Asia",
+	"subregion": "Eastern Asia",
+	"currencies": ["TWD"]
+}, {
+	"alpha2Code": "TJ",
+	"capital": "Dushanbe",
+	"alpha3Code": "TJK",
+	"latlng": [39, 71],
+	"name": "Tajikistan",
+	"population": 8354000,
+	"region": "Asia",
+	"subregion": "Central Asia",
+	"currencies": ["TJS"]
+}, {
+	"alpha2Code": "TZ",
+	"capital": "Dodoma",
+	"alpha3Code": "TZA",
+	"latlng": [-6, 35],
+	"name": "Tanzania",
+	"population": 53470000,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["TZS"]
+}, {
+	"alpha2Code": "TH",
+	"capital": "Bangkok",
+	"alpha3Code": "THA",
+	"latlng": [15, 100],
+	"name": "Thailand",
+	"population": 65104000,
+	"region": "Asia",
+	"subregion": "South-Eastern Asia",
+	"currencies": ["THB"]
+}, {
+	"alpha2Code": "TL",
+	"capital": "Dili",
+	"alpha3Code": "TLS",
+	"latlng": [-8.83333333, 125.91666666],
+	"name": "East Timor",
+	"population": 1212107,
+	"region": "Asia",
+	"subregion": "South-Eastern Asia",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "TG",
+	"capital": "Lomé",
+	"alpha3Code": "TGO",
+	"latlng": [8, 1.16666666],
+	"name": "Togo",
+	"population": 7305000,
+	"region": "Africa",
+	"subregion": "Western Africa",
+	"currencies": ["XOF"]
+}, {
+	"alpha2Code": "TK",
+	"capital": "Fakaofo",
+	"alpha3Code": "TKL",
+	"latlng": [-9, -172],
+	"name": "Tokelau",
+	"population": 1411,
+	"region": "Oceania",
+	"subregion": "Polynesia",
+	"currencies": ["NZD"]
+}, {
+	"alpha2Code": "TO",
+	"capital": "Nuku'alofa",
+	"alpha3Code": "TON",
+	"latlng": [-20, -175],
+	"name": "Tonga",
+	"population": 103252,
+	"region": "Oceania",
+	"subregion": "Polynesia",
+	"currencies": ["TOP"]
+}, {
+	"alpha2Code": "TT",
+	"capital": "Port of Spain",
+	"alpha3Code": "TTO",
+	"latlng": [11, -61],
+	"name": "Trinidad and Tobago",
+	"population": 1340557,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["TTD"]
+}, {
+	"alpha2Code": "TN",
+	"capital": "Tunis",
+	"alpha3Code": "TUN",
+	"latlng": [34, 9],
+	"name": "Tunisia",
+	"population": 10982754,
+	"region": "Africa",
+	"subregion": "Northern Africa",
+	"currencies": ["TND"]
+}, {
+	"alpha2Code": "TR",
+	"capital": "Ankara",
+	"alpha3Code": "TUR",
+	"latlng": [39, 35],
+	"name": "Turkey",
+	"population": 77695904,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["TRY"]
+}, {
+	"alpha2Code": "TM",
+	"capital": "Ashgabat",
+	"alpha3Code": "TKM",
+	"latlng": [40, 60],
+	"name": "Turkmenistan",
+	"population": 4751120,
+	"region": "Asia",
+	"subregion": "Central Asia",
+	"currencies": ["TMT"]
+}, {
+	"alpha2Code": "TC",
+	"capital": "Cockburn Town",
+	"alpha3Code": "TCA",
+	"latlng": [21.75, -71.58333333],
+	"name": "Turks and Caicos Islands",
+	"population": 31458,
+	"region": "Americas",
+	"subregion": "Caribbean",
+	"currencies": ["USD"]
+}, {
+	"alpha2Code": "TV",
+	"capital": "Funafuti",
+	"alpha3Code": "TUV",
+	"latlng": [-8, 178],
+	"name": "Tuvalu",
+	"population": 10640,
+	"region": "Oceania",
+	"subregion": "Polynesia",
+	"currencies": ["AUD"]
+}, {
+	"alpha2Code": "UG",
+	"capital": "Kampala",
+	"alpha3Code": "UGA",
+	"latlng": [1, 32],
+	"name": "Uganda",
+	"population": 34856813,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["UGX"]
+}, {
+	"alpha2Code": "UA",
+	"capital": "Kiev",
+	"alpha3Code": "UKR",
+	"latlng": [49, 32],
+	"name": "Ukraine",
+	"population": 42836922,
+	"region": "Europe",
+	"subregion": "Eastern Europe",
+	"currencies": ["UAH"]
+}, {
+	"alpha2Code": "AE",
+	"capital": "Abu Dhabi",
+	"alpha3Code": "ARE",
+	"latlng": [24, 54],
+	"name": "United Arab Emirates",
+	"population": 9157000,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["AED"]
+}, {
+	"alpha2Code": "GB",
+	"capital": "London",
+	"alpha3Code": "GBR",
+	"latlng": [54, -2],
+	"name": "United Kingdom",
+	"population": 64800000,
+	"region": "Europe",
+	"subregion": "Northern Europe",
+	"currencies": ["GBP"]
+}, {
+	"alpha2Code": "US",
+	"capital": "Washington D.C.",
+	"alpha3Code": "USA",
+	"latlng": [38, -97],
+	"name": "United States",
+	"population": 321645000,
+	"region": "Americas",
+	"subregion": "Northern America",
+	"currencies": ["USD", "USN", "USS"]
+}, {
+	"alpha2Code": "UY",
+	"capital": "Montevideo",
+	"alpha3Code": "URY",
+	"latlng": [-33, -56],
+	"name": "Uruguay",
+	"population": 3415866,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["UYI", "UYU"]
+}, {
+	"alpha2Code": "UZ",
+	"capital": "Tashkent",
+	"alpha3Code": "UZB",
+	"latlng": [41, 64],
+	"name": "Uzbekistan",
+	"population": 31022500,
+	"region": "Asia",
+	"subregion": "Central Asia",
+	"currencies": ["UZS"]
+}, {
+	"alpha2Code": "VU",
+	"capital": "Port Vila",
+	"alpha3Code": "VUT",
+	"latlng": [-16, 167],
+	"name": "Vanuatu",
+	"population": 264652,
+	"region": "Oceania",
+	"subregion": "Melanesia",
+	"currencies": ["VUV"]
+}, {
+	"alpha2Code": "VE",
+	"capital": "Caracas",
+	"alpha3Code": "VEN",
+	"latlng": [8, -66],
+	"name": "Venezuela",
+	"population": 30620404,
+	"region": "Americas",
+	"subregion": "South America",
+	"currencies": ["VEF"]
+}, {
+	"alpha2Code": "VN",
+	"capital": "Hanoi",
+	"alpha3Code": "VNM",
+	"latlng": [16.16666666, 107.83333333],
+	"name": "Vietnam",
+	"population": 91812000,
+	"region": "Asia",
+	"subregion": "South-Eastern Asia",
+	"currencies": ["VND"]
+}, {
+	"alpha2Code": "WF",
+	"capital": "Mata-Utu",
+	"alpha3Code": "WLF",
+	"latlng": [-13.3, -176.2],
+	"name": "Wallis and Futuna",
+	"population": 13135,
+	"region": "Oceania",
+	"subregion": "Polynesia",
+	"currencies": ["XPF"]
+}, {
+	"alpha2Code": "EH",
+	"capital": "El Aaiún",
+	"alpha3Code": "ESH",
+	"latlng": [24.5, -13],
+	"name": "Western Sahara",
+	"population": 510713,
+	"region": "Africa",
+	"subregion": "Northern Africa",
+	"currencies": ["MAD", "DZD", "MRO"]
+}, {
+	"alpha2Code": "YE",
+	"capital": "Sana'a",
+	"alpha3Code": "YEM",
+	"latlng": [15, 48],
+	"name": "Yemen",
+	"population": 25956000,
+	"region": "Asia",
+	"subregion": "Western Asia",
+	"currencies": ["YER"]
+}, {
+	"alpha2Code": "ZM",
+	"capital": "Lusaka",
+	"alpha3Code": "ZMB",
+	"latlng": [-15, 30],
+	"name": "Zambia",
+	"population": 15473905,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["ZMK"]
+}, {
+	"alpha2Code": "ZW",
+	"capital": "Harare",
+	"alpha3Code": "ZWE",
+	"latlng": [-20, 30],
+	"name": "Zimbabwe",
+	"population": 13061239,
+	"region": "Africa",
+	"subregion": "Eastern Africa",
+	"currencies": ["USD"]
+}]
